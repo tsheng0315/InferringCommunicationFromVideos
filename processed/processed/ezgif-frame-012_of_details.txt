@@ -1,0 +1,13 @@
+Input:ezgif-frame-012.jpg
+Input full path:/home/openface-build/ezgif-frame-012.jpg
+Camera parameters:437.5,437.5,320,180
+Output HOG:ezgif-frame-012.hog
+Output image:ezgif-frame-012.jpg
+Output aligned directory:ezgif-frame-012_aligned
+Output csv:ezgif-frame-012.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

@@ -1,0 +1,13 @@
+Input:test.png
+Input full path:/home/openface-build/test.png
+Camera parameters:1029.95,1029.95,717,451
+Output HOG:test.hog
+Output image:test.jpg
+Output aligned directory:test_aligned
+Output csv:test.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1
